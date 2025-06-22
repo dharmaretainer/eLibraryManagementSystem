@@ -1,0 +1,28 @@
+﻿body {
+}
+.footerlinks{
+    color:#ffffff;
+    text-decoration:none !important;
+}
+.footerlinks:hover{
+    color:lightgoldenrodyellow;
+    
+}
+#footer1 {
+    background:violet;
+}
+#footer2{
+    background:purple;
+}
+html, body, form {
+    height: 100%;
+}
+
+form  {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-wrapper {
+    flex: 1;
+}
